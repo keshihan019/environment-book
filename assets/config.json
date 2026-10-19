@@ -1,0 +1,39 @@
+{
+  "title": "Environment-Book",
+  "bundleVersion": "1",
+  "languages": {
+    "available": [
+      "ta",
+      "ta-LK"
+    ],
+    "default": "ta"
+  },
+  "features": {
+    "signLanguage": false,
+    "easyRead": true,
+    "glossary": true,
+    "eli5": false,
+    "readAloud": true,
+    "autoplay": true,
+    "showTutorial": true,
+    "showNavigationControls": true,
+    "describeImages": true,
+    "notepad": false,
+    "state": true,
+    "characterDisplay": false,
+    "highlight": true,
+    "activities": true
+  },
+  "analytics": {
+    "enabled": false,
+    "siteId": 0,
+    "trackerUrl": "https://unisitetracker.unicef.io/matomo.php",
+    "srcUrl": "https://unisitetracker.unicef.io/matomo.js"
+  },
+  "lockedSettings": [
+    "dockLayout",
+    "theme",
+    "iconSize",
+    "reduceMotion"
+  ]
+}
